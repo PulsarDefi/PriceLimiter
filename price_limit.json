@@ -4,5 +4,8 @@
     },
     "TERRA2_address_terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t": {
         "max_price": 0.00000001
+    },
+    "CANTO_EVM_address_0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd": {
+        "max_price": 1.1
     }
 }
