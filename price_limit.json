@@ -22,5 +22,8 @@
     },
     "CRESCENT_address_0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd": {
         "max_price": 0.5
+    },
+    "SOLANA_address_7dhbwxmci3dt8ufywyzweblxgycu7y3il6trkn1y7arj": {
+         "max_price": 100   
     }
 }
