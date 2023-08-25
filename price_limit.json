@@ -20,6 +20,9 @@
     "EVMOS_EVM_address_0x51e44ffad5c2b122c8b635671fcc8139dc636e82": {
         "max_price": 1.1
     },
+    "BASE_address_0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca": {
+        "max_price": 1.1
+    },
     "CRESCENT_address_0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd": {
         "max_price": 0.5
     },
