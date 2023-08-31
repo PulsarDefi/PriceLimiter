@@ -31,5 +31,8 @@
     },
     "SOLANA_address_So11111111111111111111111111111111111111112": {
         "max_price": 35   
+    },
+    "NEAR_address_sol.token.a11bd.near": {
+        "max_price": 35   
     }
 }
