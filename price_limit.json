@@ -28,5 +28,8 @@
     },
     "SOLANA_address_7dhbwxmci3dt8ufywyzweblxgycu7y3il6trkn1y7arj": {
         "max_price": 100   
+    },
+    "SOLANA_address_So11111111111111111111111111111111111111112": {
+        "max_price": 35   
     }
 }
