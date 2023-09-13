@@ -34,5 +34,11 @@
     },
     "NEAR_address_sol.token.a11bd.near": {
         "max_price": 35   
+    },
+    "NEAR_address_f5cfbc74057c610c8ef151a439252680ac68c6dc.factory.bridge.near": {
+        "max_price": 20
+    },
+    "EVMOS_EVM_address_0xbbd37bf85f7474b5bde689695674fab1888565ad": {
+        "max_price": 0.5
     }
 }
