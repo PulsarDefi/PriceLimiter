@@ -44,7 +44,7 @@
     "EVMOS_EVM_address_0xbbd37bf85f7474b5bde689695674fab1888565ad": {
         "max_price": 0.5
     },
-    "ETHEREUM_native_token_ETH": {
+    "ETHEREUM_native_token_eth": {
         "min_price": 10
     }
 }
