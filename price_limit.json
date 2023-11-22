@@ -47,4 +47,8 @@
     "ETHEREUM_native_token_eth": {
         "min_price": 10
     }
+    ,
+    "ETHEREUM_address_0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
+        "min_price": 0.7
+    }
 }
