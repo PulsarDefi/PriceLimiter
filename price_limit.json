@@ -29,25 +29,18 @@
     "CRESCENT_address_0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd": {
         "max_price": 0.5
     },
-    "SOLANA_address_7dhbwxmci3dt8ufywyzweblxgycu7y3il6trkn1y7arj": {
-        "max_price": 100   
-    },
-    "SOLANA_address_So11111111111111111111111111111111111111112": {
-        "max_price": 35   
-    },
-    "NEAR_address_sol.token.a11bd.near": {
-        "max_price": 35   
-    },
     "NEAR_address_f5cfbc74057c610c8ef151a439252680ac68c6dc.factory.bridge.near": {
         "max_price": 20
+    },
+    "AURORA_address_0x8bec47865ade3b172a928df8f990bc7f2a3b9f79": {
+        "max_price": 5
     },
     "EVMOS_EVM_address_0xbbd37bf85f7474b5bde689695674fab1888565ad": {
         "max_price": 0.5
     },
     "ETHEREUM_native_token_eth": {
         "min_price": 10
-    }
-    ,
+    },
     "ETHEREUM_address_0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
         "min_price": 0.7
     }
