@@ -43,5 +43,8 @@
     },
     "ETHEREUM_address_0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
         "min_price": 0.7
+    },
+    "NEUTRON_native_token_factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro": {
+        "max_price": 0.50
     }
 }
